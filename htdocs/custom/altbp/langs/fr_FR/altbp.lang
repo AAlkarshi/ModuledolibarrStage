@@ -1,0 +1,56 @@
+# Copyright (C) 2024 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleAltbpName'
+ModuleAltbpName = Altbp
+# Module description 'ModuleAltbpDesc'
+ModuleAltbpDesc = Altbp description
+
+#
+# Admin page
+#
+AltbpSetup = Altbp setup
+Settings = Settings
+AltbpSetupPage = Altbp setup page
+ALTBP_MYPARAM1 = My param 1
+ALTBP_MYPARAM1Tooltip = My param 1 tooltip
+ALTBP_MYPARAM2=My param 2
+ALTBP_MYPARAM2Tooltip=My param 2 tooltip
+Disabled=Clôturé
+status6=Clôturé
+Canceled=Clôturé
+
+#
+# About page
+#
+About = About
+AltbpAbout = About Altbp
+AltbpAboutPage = Altbp about page
+
+#
+# Sample page
+#
+AltbpArea = Home Altbp
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
